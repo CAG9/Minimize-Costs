@@ -3,8 +3,7 @@
 - Cesar Arcos: cesar99ag@gmail.com
 
 ## Abstract:
-Maximize the amount of user subscribed in a premium plan (example: "Amazon Prime"), We deploy 9 strategies with different package, form and special deal.
-We solve this problem with Thompson sampling.
+We will build an AI to minimize energy consumption of a single server.
 ## Problem:
 In 2016, DeepMind AI minimized a big part of Google’s cost by reducing Google Data Centre Cooling Bill by
 40% using their DQN AI model (Deep Q-Learning). I will do something very similar. I
