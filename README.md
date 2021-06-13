@@ -3,7 +3,7 @@
 - Cesar Arcos: cesar99ag@gmail.com
 
 ## Abstract:
-We will build an AI to minimize energy consumption of a single server.
+I will build an AI to minimize energy consumption of a single server.
 ## Problem:
 In 2016, DeepMind AI minimized a big part of Google’s cost by reducing Google Data Centre Cooling Bill by
 40% using their DQN AI model (Deep Q-Learning). I will do something very similar. I
