@@ -11,7 +11,7 @@ will set up our own server environment, and i will build an AI that will be cont
 of the server so that it stays in an optimal range of temperatures while saving the maximum energy, therefore
 minimizing the costs. And just as DeepMind AI did, our goal will be to achieve at least 40% energy saving.
 
-## Results
+## Result
 We saved over 50% of energy
 
 # Run
